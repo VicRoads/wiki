@@ -80,7 +80,7 @@ For open data guidelines including those which focus on policy, see [Open Data G
 #### Australia
 
 -   [Australian Capital Territory](http://actgov.github.io/opendatapolicy/) (ready for comments, powered by GitHub)
-
+-   [VicRoads - State of Victoria Road Corporation](http://vicroadsopendata.vicroadsmaps.opendata.arcgis.com/)
 #### Pending Legislation
 
 *(by country, then chronologically)*
